@@ -1,0 +1,157 @@
+{
+  "@@locale": "en",
+  
+  "appName": "FluxVPN",
+  "appDescription": "Professional VPN Application",
+  
+  "home": "Home",
+  "servers": "Servers",
+  "settings": "Settings",
+  "about": "About",
+  
+  "connect": "Connect",
+  "disconnect": "Disconnect",
+  "connecting": "Connecting...",
+  "connected": "Connected",
+  "disconnected": "Disconnected",
+  "tapToConnect": "TAP TO CONNECT",
+  "protected": "PROTECTED",
+  
+  "upload": "Upload",
+  "download": "Download",
+  "ping": "Ping",
+  "duration": "Duration",
+  
+  "testAllServers": "Test All Servers",
+  "copyWorkingServers": "Copy Working Servers",
+  "deleteDeadServers": "Delete Dead Servers",
+  "refresh": "Refresh",
+  "importConfig": "Import Config",
+  "importWireGuard": "Import WireGuard",
+  "scanQRCode": "Scan QR Code",
+  "showFavorites": "Show Favorites",
+  "showAll": "Show All",
+  
+  "manualConfigs": "Manual Configs",
+  "subscriptionConfigs": "Subscription Configs",
+  "noServers": "No servers available",
+  "addServerFirst": "Add a server first",
+  
+  "language": "Language",
+  "theme": "Theme",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "systemDefault": "System Default",
+  
+  "speedMode": "Speed Mode",
+  "maxSpeed": "Maximum Speed",
+  "balanced": "Balanced",
+  "batterySaver": "Battery Saver",
+  "custom": "Custom",
+  
+  "maxSpeedDesc": "Optimized for YouTube, Netflix and downloads",
+  "balancedDesc": "Balance between speed and battery",
+  "batterySaverDesc": "Reduce battery consumption",
+  
+  "statistics": "Statistics",
+  "clearStatistics": "Clear Statistics",
+  "exportLogs": "Export Logs",
+  
+  "success": "Success",
+  "error": "Error",
+  "warning": "Warning",
+  "info": "Information",
+  
+  "copiedToClipboard": "Copied to clipboard",
+  "workingServersCopied": "{count} working servers copied",
+  "@workingServersCopied": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "noWorkingServers": "No Working Servers",
+  "runPingFirst": "Please run Ping All first to find working servers",
+  
+  "configAdded": "Config Added",
+  "configAddedSuccess": "{name} added successfully",
+  "@configAddedSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  
+  "emptyClipboard": "Empty Clipboard",
+  "copyConfigFirst": "Please copy a config first",
+  
+  "importFailed": "Import Failed",
+  "copyFailed": "Copy Failed",
+  
+  "deleteConfirm": "Delete Confirmation",
+  "deleteMessage": "Are you sure you want to delete this server?",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  
+  "vpnPermissionRequired": "VPN Permission Required",
+  "vpnPermissionSteps": "1. Tap Connect button\n2. Allow VPN permission when prompted\n\nIf no dialog appears:\nSettings → Apps → ZedSecure → Permissions",
+  
+  "version": "Version",
+  "developer": "Developer",
+  "support": "Support",
+  
+  "ms": "ms",
+  "seconds": "s",
+  "minutes": "m",
+  "hours": "h",
+
+  "wallpaper": "Wallpaper",
+  "wallpaperSettings": "Wallpaper Settings",
+  "selectWallpaper": "Select Wallpaper",
+  "wallpaperStore": "Wallpaper Store",
+  "customWallpaper": "Custom Wallpaper",
+  "defaultWallpaper": "Default Wallpaper",
+  "wallpaperApplied": "Wallpaper Applied",
+  "wallpaperAppliedSuccess": "Wallpaper applied successfully",
+  "wallpaperRemoved": "Wallpaper Removed",
+  "wallpaperRemovedSuccess": "Wallpaper removed successfully",
+  "selectWallpaperFromGallery": "Select from Gallery",
+  "wallpaperPreview": "Preview",
+  "wallpaperCategory": "Category",
+  "wallpaperSize": "Size",
+  "wallpaperDownload": "Download",
+  "wallpaperDelete": "Delete",
+  "wallpaperImportFromGallery": "Add from Gallery",
+  "wallpaperAdded": "Wallpaper imported from gallery",
+  "wallpaperFavorite": "Add to Favorites",
+  "wallpaperUnfavorite": "Remove from Favorites",
+  "noWallpapers": "No wallpapers available",
+  "wallpaperLoadingError": "Failed to load wallpapers",
+
+  "languageSettings": "Language Settings",
+  "selectLanguage": "Select Language",
+  "currentLanguage": "Current Language",
+  "english": "English",
+  "persian": "Persian (فارسی)",
+  "arabic": "Arabic (العربية)",
+  "spanish": "Spanish (Español)",
+  "french": "French (Français)",
+  "german": "German (Deutsch)",
+  "russian": "Russian (Русский)",
+  "chinese": "Chinese (中文)",
+  "japanese": "Japanese (日本語)",
+  "korean": "Korean (한국어)",
+  "portuguese": "Portuguese (Português)",
+  "italian": "Italian (Italiano)",
+  "dutch": "Dutch (Nederlands)",
+  "turkish": "Turkish (Türkçe)",
+  "hindi": "Hindi (हिन्दी)",
+  "languageChanged": "Language Changed",
+  "languageChangedSuccess": "Language changed successfully",
+  "restartAppToApply": "Restart the app to apply changes",
+  "autoDetect": "Auto Detect",
+  "systemLanguage": "System Language"
+}
